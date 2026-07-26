@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pratyush Chauhan
+Congratulations- you've just discovered the profile of the greatest engineer the world has ever seen.
 =========================================================================================================================================
 
-Software & AI Developer
+I am Pratyush Chauhan
 -----------------------
+Software and AI developer
 
-Congratulations- you've just discovered the profile of the greatest engineer the world has ever seen.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Mywork](http://xyzpc.com)
