@@ -7,7 +7,7 @@ Software and AI developer
 
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Mywork](http://xyzpc.com)
+<!--* 🖥️  See my portfolio at [Mywork](http://xyzpc.com) -->
 * ✉️  You can contact me at [pratyushchauhan13@gmail.com](mailto:pratyushchauhan13@gmail.com)
 
 <p align="left">
