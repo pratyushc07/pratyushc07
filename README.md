@@ -1,10 +1,8 @@
 Congratulations- you've just discovered the profile of the greatest engineer the world has ever seen.
 =========================================================================================================================================
 
-I am Pratyush Chauhan
------------------------
 Software and AI developer
-
+-----------------------
 
 * 🌍  I'm based in India
 <!--* 🖥️  See my portfolio at [Mywork](http://xyzpc.com) -->
